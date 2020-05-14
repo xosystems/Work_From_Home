@@ -10,6 +10,7 @@
     τις δυνατότητες του υπάρχοντος εξοπλισμού 
 
 ## Δείτε την μέση ταχύτητα που απαιτείται ανάλογα με την υπηρεσία
+
 ![Image description](https://www.speedtest.net/insights/blog/content/images/2020/03/Bandwidth-spectrum.png)
 
 [Για περισσότερες λεπτομέρειες επισκεφθείτε την σελίδα](https://www.speedtest.net/insights/blog/work-from-home-learn-remotely-setup/)
