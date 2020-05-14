@@ -6,6 +6,6 @@
 
 1. [Πρόσβαση στο Internet](Internet_Access.md)
 2. [Συναντήσεις](Meetings.md)
-3. [Πρόσβαση στα έγγραφα](File_Access.md)
+3. [Πρόσβαση στα έγγραφα μας](File_Access.md)
 4. [Τηλεφωνία](Telephony.md)
 5. [Πρόσβαση στις εφαρμογές](Apps_Access.md)
