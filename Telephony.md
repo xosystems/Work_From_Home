@@ -15,6 +15,6 @@
 
 ![Image description](https://www.onsip.com/hs-fs/hub/516769/file-2934574726-png/blog-files/tammeblog.png?width=638&name=tammeblog.png)
 
-εάν δεν έχετε αντιληφθεί την διαφορά στην ποιότητα του ήχου μπορείτε να την ακούσετε στο κάτωθι
+Δείτε την διαφορά στην ποιότητα ήχου μεταξύ των codecs
 
 [Watch the video](https://www.youtube.com/watch?v=bHwTcoq7n7E)
